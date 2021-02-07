@@ -1,0 +1,10 @@
+/export-data/sciservice_ha/t15/SRR2100042.sra
+/export-data/sciservice_ha/t15/ERR038262.sra
+/export-data/sciservice_ha/t15/ERR038263.sra
+/export-data/sciservice_ha/t15/ERR038280.sra
+/export-data/sciservice_ha/t15/ERR039345.sra
+/export-data/sciservice_ha/t15/SRR2100821.sra
+/export-data/sciservice_ha/t15/SRR2100896.sra
+/export-data/sciservice_ha/t15/SRR2101511.sra
+/export-data/sciservice_ha/t15/SRR2101524.sra
+/export-data/sciservice_ha/t15/SRR2101581.sra
