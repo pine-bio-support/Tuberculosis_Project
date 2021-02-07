@@ -36,4 +36,3 @@
 /export-data/sciservice_ha/t15/SRR2101511.sra
 /export-data/sciservice_ha/t15/SRR2101524.sra
 /export-data/sciservice_ha/t15/SRR2101581.sra
-
