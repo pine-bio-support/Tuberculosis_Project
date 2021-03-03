@@ -1,0 +1,16 @@
+/export-data/sciservice_ha/t15/SRR2100042.sra
+/export-data/sciservice_ha/t15/ERR038262.sra
+export-data/sciservice_ha/t15/ERR046983.sra
+/export-data/sciservice_ha/t15/SRR2100112.sra
+/export-data/sciservice_ha/t15/SRR2101610.sra
+/export-data/sciservice_ha/t15/SRR2101694.sra
+/export-data/sciservice_ha/t15/SRR2100226.sra
+/export-data/sciservice_ha/t15/SRR2100757.sra
+/export-data/sciservice_ha/t15/SRR2101427.sra
+/export-data/sciservice_ha/t15/SRR2101495.sra
+/export-data/sciservice_ha/t15/SRR2099963.sra
+/export-data/sciservice_ha/t15/SRR2099964.sra
+/export-data/sciservice_ha/t15/SRR2099967.sra
+/export-data/sciservice_ha/t15/ERR046954.sra
+/export-data/sciservice_ha/t15/ERR046961.sra
+/export-data/sciservice_ha/t15/ERR046989.sra
